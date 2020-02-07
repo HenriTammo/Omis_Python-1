@@ -87,19 +87,6 @@ if 4==4:
 
 
 
-
-    
-
-    
-
-
-
-
-#Sama teha nii, et küsiks kasutajalt nime, ei tohi olla pikem kui 20 tähte,
-#Ei tohi olla lühem kui 8 tähte.
-    
-
-
     
     
 
