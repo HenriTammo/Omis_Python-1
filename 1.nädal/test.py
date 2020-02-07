@@ -67,7 +67,27 @@ else:
     print("Nojah")
 if 3>2: print("shorthand")
 
-    
+if 3==4 or 4==4 :
+    print("on olemas")
+
+if 4==4:
+    if 5==4:
+        print("on olemas nested if")
+
+#Kasutaja sisestab arvu, meie vastame talle kas tegemist on paarisarvu või paaritu arvuga.
+#IF MUUTUJA%2==0
+
+#Liigaasta
+#Kirjuta programm, mis kontrollib, kas antud positiivne täisarv on liig- või lihtaasta.
+#(Aasta on liigaasta, kui tema number jaguneb neljaga, välja arvatud need aasta, mille number jaguneb
+# sajaga, kuid ei jagu neljasajaga)
+
+#100,    400
+#4
+
+
+
+
     
 
     
