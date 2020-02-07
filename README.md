@@ -17,7 +17,15 @@ Kasulikke linke:
 </ul>
 
 Kodutööd:
+Koosta väike drilliprogramm korrutustabeli omandamiseks, mida
+näiteks kodus väiksema õe/venna või ema/isa peal katsetada saaksid.
 
+Programm peab käituma järgmiselt (programmi põhiosa):
+1. Esitab korrutustehte
+2. Ootab kasutajalt vastuse sisestamist
+3. Kontrollib vastuse õigsust
+4. Väljastab, kas vastus oli õige või väär.
+5. Kokku antakse lahendamiseks 10 ülesannet.
 
 
 
