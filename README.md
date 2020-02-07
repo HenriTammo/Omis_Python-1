@@ -31,7 +31,7 @@ Programm peab käituma järgmiselt (programmi põhiosa):
 
 Vigade otsimine: 
 Esimene eesmärk seoses vigade otsimisega võiks olla programmi käivitumine esimesel katsel, st programmi koodist on likvideeritud 
-esmased pisivead ja näpukadn (süntaksivead). Selleks loe programm läbi ning veendu, et:
+esmased pisivead ja näpukad (süntaksivead). Selleks loe programm läbi ning veendu, et:
 
 - ühelgi muutujal ei ole nimeks võtmesõna
 - juhtlause lõpus (if, while, for, def) on koolon :
