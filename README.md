@@ -1,9 +1,10 @@
 # Omis Python
 Pythoni ja programmeerimise algkursus.
+<br></br>
 Õppejõud: Kristjan Veensalu
+<br></br>
 Email: kristjan.veensalu@gmail.com
-
-
+<br></br>
 <hr></hr>
 Kasulikke linke:
 <ul>
