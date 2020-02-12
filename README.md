@@ -3,8 +3,9 @@ Pythoni ja programmeerimise algkursus.
 Õppejõud: Kristjan Veensalu
 Email: kristjan.veensalu@gmail.com
 
-#Kasulikke linke:
+
 <hr></hr>
+Kasulikke linke:
 <ul>
 	Python ajalugu ja sissejuhatus
 	<li>http://www.cs.tlu.ee/~inga/progbaas/Materjalid/Python_sissejuhatus_2019.pdf</li>
@@ -25,7 +26,7 @@ Email: kristjan.veensalu@gmail.com
 	<li>https://www.python.org/doc/</li>
 </ul>
 <hr></hr>
-#Kodutööd:
+Kodutööd:
 <br></br>
 Koosta väike drilliprogramm korrutustabeli omandamiseks, mida
 näiteks kodus väiksema õe/venna või ema/isa peal katsetada saaksid.
@@ -42,7 +43,7 @@ Programm peab käituma järgmiselt (programmi põhiosa):
 
 
 
-#Vigade otsimine: 
+Vigade otsimine: 
 Esimene eesmärk seoses vigade otsimisega võiks olla programmi käivitumine esimesel katsel, st programmi koodist on likvideeritud 
 esmased pisivead ja näpukad (süntaksivead). Selleks loe programm läbi ning veendu, et:
 
