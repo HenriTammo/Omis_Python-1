@@ -1,11 +1,13 @@
-# Omis_Python
+# Omis Python
 Pythoni ja programmeerimise algkursus.
 Õppejõud: Kristjan Veensalu
 Email: kristjan.veensalu@gmail.com
 
 Kasulikke linke:
-
+<hr></hr>
 <ul>
+	Python ajalugu ja sissejuhatus
+	<li>http://www.cs.tlu.ee/~inga/progbaas/Materjalid/Python_sissejuhatus_2019.pdf</li>
 	Python õpetused/süntaks
 	<li>https://www.w3schools.com/python/default.asp</li>
 	Sisendi ja väljundi kohta
@@ -14,8 +16,15 @@ Kasulikke linke:
 	<li>http://www.cs.tlu.ee/~inga/progbaas/Materjalid/Python_muutujad_2019.pdf</li>
 	If lausete kohta
 	<li>https://progeopik.cs.ut.ee/03_liitlaused.html</li>
+	For ja While kordused
+	<li>https://www.w3schools.com/python/python_while_loops.asp</li>
+	<li>https://www.w3schools.com/python/python_for_loops.asp</li>
+	Funktsioonid
+	<li>https://www.w3schools.com/python/python_functions.asp</li>
+	Üldine dokumentatsioon
+	<li>https://www.python.org/doc/</li>
 </ul>
-
+<hr></hr>
 Kodutööd:
 Koosta väike drilliprogramm korrutustabeli omandamiseks, mida
 näiteks kodus väiksema õe/venna või ema/isa peal katsetada saaksid.
@@ -26,6 +35,9 @@ Programm peab käituma järgmiselt (programmi põhiosa):
 3. Kontrollib vastuse õigsust
 4. Väljastab, kas vastus oli õige või väär.
 5. Kokku antakse lahendamiseks 10 ülesannet.
+
+
+<hr></hr>
 
 
 
