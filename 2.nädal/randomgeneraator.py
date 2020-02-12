@@ -1,5 +1,5 @@
 import random as rand
 
-suvaline = rand.randint(10,20);
+suvaline = rand.randint(1,20);
 print(suvaline);
 #test
