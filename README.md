@@ -1,5 +1,6 @@
 # Omis Python
 Pythoni ja programmeerimise algkursus.
+<br></br>
 <a href="https://www.omis.ee/course/python-2503-3004-40-kr_eesti/">Koduleht</a>
 <br></br>
 Õppejõud: Kristjan Veensalu
