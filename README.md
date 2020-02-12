@@ -93,3 +93,11 @@ väärtused tsükli sees muutuvad?
 - Kas loogikaavaldis tsükli alguses esimesel kordusel saab olla tõene (True)? Kas tsükkel üldse käivitub?
 
 Jõudu oma koodi lugemiseks ja iseseisvaks vigade leidmiseks!
+
+<hr>/hr>
+Osalejate github:
+<ol>
+	<li><a href="Github.com/priitsepp/python">Priit Sepp</a></li>
+	<li><a href="https://github.com/maarjaryytel/python">Maarja Rüütel</a></li>
+	<li><a href="#">Oona Elise Marie Luik</a></li>
+</ol>
