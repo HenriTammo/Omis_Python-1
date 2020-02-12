@@ -94,7 +94,7 @@ väärtused tsükli sees muutuvad?
 
 Jõudu oma koodi lugemiseks ja iseseisvaks vigade leidmiseks!
 
-<hr>/hr>
+<hr></hr>
 Osalejate github:
 <ol>
 	<li><a href="Github.com/priitsepp/python">Priit Sepp</a></li>
