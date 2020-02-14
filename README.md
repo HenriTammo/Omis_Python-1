@@ -31,8 +31,7 @@ Kasulikke linke:
 <hr></hr>
 Kodutööd:
 <br></br>
-Koosta väike drilliprogramm korrutustabeli omandamiseks, mida
-näiteks kodus väiksema õe/venna või ema/isa peal katsetada saaksid.
+Koosta väike õpetaja abiline kujundite omandamiseks.
 
 Programm peab käituma järgmiselt (programmi põhiosa):
 
