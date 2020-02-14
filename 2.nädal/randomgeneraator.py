@@ -15,3 +15,10 @@ while mangkaib:
 #
 #Funktsioon randint() paikneb moodulis random, 
 #mis tuleb importida ning funktsiooni käivitamisel kirjutada nime ette random.
+
+#Koosta programm, mis on suuteline lahendama 6 erineva geomeetrilise kujundi Pindala, ümbermõõtu ja ruumala.
+#Iga lahendusprotsessi kohta on oma funktsioon
+#Funktsioonid asuvad eraldi failis programmist endast
+#Lahenduskäik ja funktsioon valitakse vastavalt kasutaja sisestusele.
+#Kasutaja sisestab küljed, kõrgused, jne.
+#Programm peab jooksma väljaspool Visual Studio Code eraldiseisva failina.

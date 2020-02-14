@@ -1,4 +1,6 @@
-from hoidja import my_function
+from hoidja import my_function #from "FAILINIMI" import "FUNKTSIOONI NIMI"
+
+my_function()
 
 def korrutameKahega(sisendInfo):
     print(sisendInfo*2)
