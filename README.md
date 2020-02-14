@@ -35,6 +35,7 @@ Koosta väike drilliprogramm korrutustabeli omandamiseks, mida
 näiteks kodus väiksema õe/venna või ema/isa peal katsetada saaksid.
 
 Programm peab käituma järgmiselt (programmi põhiosa):
+
 1.Koosta programm, mis on suuteline lahendama 6 erineva geomeetrilise kujundi Pindala, ümbermõõtu ja ruumala.
 
 2.Iga lahendusprotsessi kohta on oma funktsioon.
