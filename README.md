@@ -25,6 +25,8 @@ Kasulikke linke:
 	<li>https://www.w3schools.com/python/python_for_loops.asp</li>
 	Funktsioonid
 	<li>https://www.w3schools.com/python/python_functions.asp</li>
+	DateTime
+	<li>https://www.w3schools.com/python/python_datetime.asp</li>
 	Üldine dokumentatsioon
 	<li>https://www.python.org/doc/</li>
 </ul>
