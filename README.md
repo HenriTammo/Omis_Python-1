@@ -35,13 +35,13 @@ Koosta väike drilliprogramm korrutustabeli omandamiseks, mida
 näiteks kodus väiksema õe/venna või ema/isa peal katsetada saaksid.
 
 Programm peab käituma järgmiselt (programmi põhiosa):
-#Koosta programm, mis on suuteline lahendama 6 erineva geomeetrilise kujundi Pindala, ümbermõõtu ja ruumala.
-#Iga lahendusprotsessi kohta on oma funktsioon.
-#Funktsioonid asuvad eraldi failis programmist endast.(Import)
-#Lahenduskäik ja funktsioon valitakse vastavalt kasutaja sisestusele.
-#Kasutaja sisestab küljed, kõrgused, jne.
-#Tagastatakse ainult küsitud parameeter (Pindala, ruumala, ümbermõõt)
-#Programm peab jooksma väljaspool Visual Studio Code eraldiseisva failina.
+1.Koosta programm, mis on suuteline lahendama 6 erineva geomeetrilise kujundi Pindala, ümbermõõtu ja ruumala.
+2.Iga lahendusprotsessi kohta on oma funktsioon.
+3.Funktsioonid asuvad eraldi failis programmist endast.(Import)
+4.Lahenduskäik ja funktsioon valitakse vastavalt kasutaja sisestusele.
+5.Kasutaja sisestab küljed, kõrgused, jne.
+6.Tagastatakse ainult küsitud parameeter (Pindala, ruumala, ümbermõõt)
+7.Programm peab jooksma väljaspool Visual Studio Code eraldiseisva failina.
 
 
 <hr></hr>
