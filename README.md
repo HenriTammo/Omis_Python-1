@@ -35,7 +35,7 @@ Koosta väike õpetaja abiline kujundite omandamiseks.
 
 Programm peab käituma järgmiselt (programmi põhiosa):
 
-1. Koosta programm, mis on suuteline lahendama 6 erineva geomeetrilise kujundi Pindala, ümbermõõtu ja ruumala.
+1. Koosta programm, mis on suuteline lahendama 8 (2D - Neli kujundit, 3D - Neli kujundit) erineva geomeetrilise kujundi Pindala, ümbermõõtu ja ruumala.
 
 2. Iga lahendusprotsessi kohta on oma funktsioon.
 
