@@ -1,11 +1,17 @@
-# Omis_Python
+# Omis Python
 Pythoni ja programmeerimise algkursus.
+<br></br>
+<a href="https://www.omis.ee/course/python-2503-3004-40-kr_eesti/">Koduleht</a>
+<br></br>
 Õppejõud: Kristjan Veensalu
+<br></br>
 Email: kristjan.veensalu@gmail.com
-
+<br></br>
+<hr></hr>
 Kasulikke linke:
-
 <ul>
+	Python ajalugu ja sissejuhatus
+	<li>http://www.cs.tlu.ee/~inga/progbaas/Materjalid/Python_sissejuhatus_2019.pdf</li>
 	Python õpetused/süntaks
 	<li>https://www.w3schools.com/python/default.asp</li>
 	Sisendi ja väljundi kohta
@@ -14,18 +20,40 @@ Kasulikke linke:
 	<li>http://www.cs.tlu.ee/~inga/progbaas/Materjalid/Python_muutujad_2019.pdf</li>
 	If lausete kohta
 	<li>https://progeopik.cs.ut.ee/03_liitlaused.html</li>
+	For ja While kordused
+	<li>https://www.w3schools.com/python/python_while_loops.asp</li>
+	<li>https://www.w3schools.com/python/python_for_loops.asp</li>
+	Funktsioonid
+	<li>https://www.w3schools.com/python/python_functions.asp</li>
+	DateTime
+	<li>https://www.w3schools.com/python/python_datetime.asp</li>
+	Üldine dokumentatsioon
+	<li>https://www.python.org/doc/</li>
 </ul>
-
+<hr></hr>
 Kodutööd:
-Koosta väike drilliprogramm korrutustabeli omandamiseks, mida
-näiteks kodus väiksema õe/venna või ema/isa peal katsetada saaksid.
+<br></br>
+Koosta väike õpetaja abiline kujundite omandamiseks.
 
 Programm peab käituma järgmiselt (programmi põhiosa):
-1. Esitab korrutustehte
-2. Ootab kasutajalt vastuse sisestamist
-3. Kontrollib vastuse õigsust
-4. Väljastab, kas vastus oli õige või väär.
-5. Kokku antakse lahendamiseks 10 ülesannet.
+
+1. Koosta programm, mis on suuteline lahendama 8 (2D - Neli kujundit, 3D - Neli kujundit) erineva geomeetrilise kujundi Pindala, Ümbermõõtu ja Ruumala.
+
+2. Iga lahendusprotsessi kohta on oma funktsioon.
+
+3. Funktsioonid asuvad eraldi failis programmist endast.(Import)
+
+4. Lahenduskäik ja funktsioon valitakse vastavalt kasutaja sisestusele.
+
+5. Kasutaja sisestab küljed, kõrgused, jne.
+
+6. Tagastatakse ainult küsitud parameeter (Pindala, ruumala, ümbermõõt)
+
+7. Programm peab jooksma väljaspool Visual Studio Code eraldiseisva failina.
+
+
+
+<hr></hr>
 
 
 
@@ -78,3 +106,11 @@ väärtused tsükli sees muutuvad?
 - Kas loogikaavaldis tsükli alguses esimesel kordusel saab olla tõene (True)? Kas tsükkel üldse käivitub?
 
 Jõudu oma koodi lugemiseks ja iseseisvaks vigade leidmiseks!
+
+<hr></hr>
+Osalejate github:
+<ol>
+	<li><a href="https://github.com/priitsepp/python">Priit Sepp</a></li>
+	<li><a href="https://github.com/maarjaryytel/python">Maarja Rüütel</a></li>
+	<li><a href="#">Oona Elise Marie Luik</a></li>
+</ol>
