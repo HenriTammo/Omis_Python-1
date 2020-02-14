@@ -35,19 +35,19 @@ Koosta väike õpetaja abiline kujundite omandamiseks.
 
 Programm peab käituma järgmiselt (programmi põhiosa):
 
-1.Koosta programm, mis on suuteline lahendama 6 erineva geomeetrilise kujundi Pindala, ümbermõõtu ja ruumala.
+1. Koosta programm, mis on suuteline lahendama 6 erineva geomeetrilise kujundi Pindala, ümbermõõtu ja ruumala.
 
-2.Iga lahendusprotsessi kohta on oma funktsioon.
+2. Iga lahendusprotsessi kohta on oma funktsioon.
 
-3.Funktsioonid asuvad eraldi failis programmist endast.(Import)
+3. Funktsioonid asuvad eraldi failis programmist endast.(Import)
 
-4.Lahenduskäik ja funktsioon valitakse vastavalt kasutaja sisestusele.
+4. Lahenduskäik ja funktsioon valitakse vastavalt kasutaja sisestusele.
 
-5.Kasutaja sisestab küljed, kõrgused, jne.
+5. Kasutaja sisestab küljed, kõrgused, jne.
 
-6.Tagastatakse ainult küsitud parameeter (Pindala, ruumala, ümbermõõt)
+6. Tagastatakse ainult küsitud parameeter (Pindala, ruumala, ümbermõõt)
 
-7.Programm peab jooksma väljaspool Visual Studio Code eraldiseisva failina.
+7. Programm peab jooksma väljaspool Visual Studio Code eraldiseisva failina.
 
 
 
