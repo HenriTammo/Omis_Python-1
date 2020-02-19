@@ -1,0 +1,10 @@
+KURSUSE KIRJELDUS
+Sihtgrupp:  Algajad rakendusprogrammeerimise huvilised. Python programmeerimiskeele huvilised.
+Koolituse eesmärk:  Luua eeldused programmeerimise olemuse, baasmõistete ja põhimeetodite mõistmiseks. Luua eeldused väikesemahulise tarkvara loomise elutsükli sammude omandamiseks.
+Õppe alustamise tingimused:  Kursuse alustamiseks on vajalik esmane arvutikasutamis oskus
+Kursus kestab:  60 akadeemilist tundi: seal hulgas 40 tundi auditoorset ja praktilist tööd. Lisaks on vaja vähemalt 20 tundi iseseisvat praktilist tööd.
+Kursuse maksumus: 1 akadeemiline tund 28.00 euro,  lisandub käibemaks; kokku 1120.00 euro, summale lisandub käibemaks.
+Õppekeel: eesti
+Õppegrupi suurus: 3 inimest
+Õpiväljundid: – Aine läbinud isik tunneb protseduurse programmeerimisega seonduvaid põhimõtteid, mõisteid ja keelt ning programmeerimise olemust. Analüüsib lihtsamaid probleeme ning koostab nende lahendamiseks algoritme. Oskab koodi töötlemiseks kasutada sobivat keskkonda.
+Õppekava :

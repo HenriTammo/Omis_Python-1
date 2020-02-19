@@ -1,4 +1,4 @@
-from hoidja import my_function #from "FAILINIMI" import "FUNKTSIOONI NIMI"
+from hoidja import *
 
 my_function()
 
