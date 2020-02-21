@@ -37,21 +37,13 @@ Koosta väike õpetaja abiline kujundite omandamiseks.
 
 Programm peab käituma järgmiselt (programmi põhiosa):
 
-1. Koosta programm, mis on suuteline lahendama 8 (2D - Neli kujundit, 3D - Neli kujundit) erineva geomeetrilise kujundi Pindala, Ümbermõõtu ja Ruumala.
+1. Koosta programm, et mängida Trips-Traps-Trulli.
 
-2. Iga lahendusprotsessi kohta on oma funktsioon.
+2. Vastaseks on arvuti.
 
 3. Funktsioonid asuvad eraldi failis programmist endast.(Import)
 
-4. Lahenduskäik ja funktsioon valitakse vastavalt kasutaja sisestusele.
-
-5. Kasutaja sisestab küljed, kõrgused, jne.
-
-6. Tagastatakse ainult küsitud parameeter (Pindala, ruumala, ümbermõõt)
-
-7. Programm peab jooksma väljaspool Visual Studio Code eraldiseisva failina.
-
-
+4. Kui arvutil on võimalik teha võidukäik, siis teeb seda.
 
 <hr></hr>
 
