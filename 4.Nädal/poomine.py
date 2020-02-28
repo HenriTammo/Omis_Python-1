@@ -1,4 +1,12 @@
 import random
+import os
+#from nltk.corpus import words
+#suvalisedSonad = words.words()
+#print(word_list)
+f = open("sonastik.txt", "r")
+suvalisedSonad = []
+for x in f:
+    suvalisedSonad.append(x.strip('\n'))
 #loome poomise mängu
 #tekitame ise suvaliste sõnade listi
 #Liigutame sõna eraldi listi tähe haaval.
@@ -8,7 +16,6 @@ import random
 #Soovitan kasutada lisafunktsiooni IN 
 
 #Sõnade listi:
-suvalisedSonad = ["kala", "teine", "pall", "koer", "arvuti", "auto", "sein", "monitor", "mees", "aken"]
 listiPikkus = len(suvalisedSonad) - 1
 valija = random.randint(0,listiPikkus)
 valitudSona = suvalisedSonad[valija]
