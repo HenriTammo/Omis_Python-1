@@ -1,5 +1,4 @@
 
-
 #Moodusta ekraanile tärnidest ruut. 
 #Tärnide arvu ruudu külgede jaoks sisestab kasutaja. 
 #Näiteks kui ruudu külg on 5, siis ekraanile ilmub:

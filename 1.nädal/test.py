@@ -1,4 +1,4 @@
-from math import *
+'''from math import *
 
 
 
@@ -7,7 +7,7 @@ from math import *
 
 #print("Hello \nworld!")
 #print("testing", end=" ")
-#print(5+5)
+#print(5+5/2)
 #pindala=20.34666
 #print(pindala)
 #print(pindala, " on pindala")
@@ -94,5 +94,13 @@ if 4==4:
 
     
     
-
-
+'''
+displayList = []
+tuhiList = []
+mingiList = ["esimene", "teine"]
+for x in mingiList[0]:
+    tuhiList.append(x)
+print(tuhiList)
+for x in range(len(tuhiList)):
+    displayList.append("_")
+print(displayList)
