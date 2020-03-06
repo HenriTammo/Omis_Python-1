@@ -33,17 +33,7 @@ Kasulikke linke:
 <hr></hr>
 Kodutööd:
 <br></br>
-Koosta väike õpetaja abiline kujundite omandamiseks.
 
-Programm peab käituma järgmiselt (programmi põhiosa):
-
-1. Koosta programm, et mängida Trips-Traps-Trulli.
-
-2. Vastaseks on arvuti.
-
-3. Funktsioonid asuvad eraldi failis programmist endast.(Import)
-
-4. Kui arvutil on võimalik teha võidukäik, siis teeb seda.
 
 <hr></hr>
 
