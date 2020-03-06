@@ -2,18 +2,20 @@
 #sisestatud listis olevast arvudest.
 #Kasutaja saab vastuseks Suurem või Väiksem
 
+#Listi lisamiseks on funktsioon .append()
+#Ehk: Listinimi.append(Kasutaja_sisestatud_arv)
 
+#for x in Listinimi:
+    #if x<sisend:
+        #print("Suurem")
 
+#Suurem
+#Suurem
+#Suurem
+#Suurem
+#Suurem
 
-
-
-
-
-
-
-
-
-
+#Lahendus
 numberList = []
 stopper = True
 while stopper:
@@ -30,3 +32,4 @@ for x in numberList:
         print("Suurem")
     else:
         print("Väiksem")
+
