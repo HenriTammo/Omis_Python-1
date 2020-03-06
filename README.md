@@ -35,9 +35,13 @@ Kasulikke linke:
 Kodutööd:
 <br></br>
 Eesmärk - Mis te teha tahtsite?
+
 Tehnoloogia - Millega te tegite?
+
 Kirjeldus protsessist - Kuidas te tegite?
+
 Tulemus - Mis ta teeb?
+
 
 <hr></hr>
 
