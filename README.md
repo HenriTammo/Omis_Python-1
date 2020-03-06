@@ -34,15 +34,11 @@ Kasulikke linke:
 <hr></hr>
 Kodutööd:
 <br></br>
-Eesmärk - Mis te teha tahtsite?
-
-Tehnoloogia - Millega te tegite?
-
-Kirjeldus protsessist - Kuidas te tegite?
-
-Tulemus - Mis ta teeb?
-
-
+<ul>
+	<li>Eesmärk - Mis te teha tahtsite?</li>
+	<li>Tehnoloogia - Millega te tegite?</li>
+	<li>Kirjeldus protsessist - Kuidas te tegite?</li>
+	<li>Tulemus - Mis ta teeb?</li>
 <hr></hr>
 
 ![Pilt pythoni koodist](/assets/pilt.png)
