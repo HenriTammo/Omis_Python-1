@@ -7,6 +7,7 @@ Pythoni ja programmeerimise algkursus.
 <br></br>
 Email: kristjan.veensalu@gmail.com
 <br></br>
+
 <hr></hr>
 Kasulikke linke:
 <ul>
@@ -37,7 +38,7 @@ Kodutööd:
 
 <hr></hr>
 
-
+![Pilt pythoni koodist](/assets/pilt.png)
 
 Vigade otsimine: 
 Esimene eesmärk seoses vigade otsimisega võiks olla programmi käivitumine esimesel katsel, st programmi koodist on likvideeritud 
